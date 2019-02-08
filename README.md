@@ -1,2 +1,2 @@
-# AndroidApps
+# AndroidApps <img height="204" src="https://www.google.com/imgres?imgurl=http://www.crearelogo.it/wp-content/uploads/android-300x300.png&imgrefurl=http://www.crearelogo.it/la-storia-del-logo-android/&h=300&w=300&tbnid=rBMFvp41e6dNPM:&q=android&tbnh=160&tbnw=160&usg=AI4_-kSrE5rGT2jmnHp9WeD0gdG5JCqvMA&vet=12ahUKEwicl6qjnazgAhWDURUIHWZbCdcQ_B0wE3oECAUQEQ..i&docid=YIC-6p27tjX05M&itg=1&sa=X&ved=2ahUKEwicl6qjnazgAhWDURUIHWZbCdcQ_B0wE3oECAUQEQ" >
 App sviluppate per l'esame di Mobile Computing
